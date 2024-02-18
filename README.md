@@ -1,4 +1,4 @@
 # webdevelopment-for-practice
-this is just for learn some basic things about web development 
+This is just for to learn some basic things about web development 
 <br>
-<strong color="green";> The owner of this is shah khalid </strong>
+<strong> Author--M Shah Khalid </strong>
